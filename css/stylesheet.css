@@ -31,7 +31,7 @@ overflow: hidden;
   box-sizing: border-box;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-left: 20px;
     background-color: #F4CFC7;
     display: flex;
   }
@@ -63,3 +63,14 @@ overflow: hidden;
     padding-right: 12px;
   }
  
+
+  .products {
+
+    display: flex;
+    
+  }
+
+
+  .toy {
+ background-color: #f50303 ;
+  }
